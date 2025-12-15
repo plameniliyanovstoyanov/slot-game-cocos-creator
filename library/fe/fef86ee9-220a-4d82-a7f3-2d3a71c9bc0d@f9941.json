@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reelFrame_right",
+    "atlas": "",
+    "rect": {
+      "x": 865,
+      "y": 0,
+      "width": 38,
+      "height": 590
+    },
+    "offset": {
+      "x": 432.5,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 903,
+      "height": 590
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -19,
+        -295,
+        0,
+        19,
+        -295,
+        0,
+        -19,
+        295,
+        0,
+        19,
+        295,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        865,
+        590,
+        903,
+        590,
+        865,
+        0,
+        903,
+        0
+      ],
+      "nuv": [
+        0.9579180509413068,
+        0,
+        1,
+        0,
+        0.9579180509413068,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -19,
+        "y": -295,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 19,
+        "y": 295,
+        "z": 0
+      }
+    },
+    "texture": "fef86ee9-220a-4d82-a7f3-2d3a71c9bc0d@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

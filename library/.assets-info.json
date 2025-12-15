@@ -1,0 +1,153 @@
+{
+  "version": "1.0.1",
+  "map": {
+    "scenes": {
+      "time": 1765558876164.3298,
+      "uuid": "318791c3-2e07-4e6a-9404-d14890a64c64"
+    },
+    "scripts": {
+      "time": 1765810839014.0574,
+      "uuid": "c51104a8-f952-41ff-a322-6ee8e4e85760"
+    },
+    "sprites": {
+      "time": 1765558876219.8743,
+      "uuid": "b9d085e4-12a0-4a99-bafd-fac054c139bd"
+    },
+    "sprites\\background": {
+      "time": 1765558876200.084,
+      "uuid": "32bf6344-851c-4c97-95fc-7fccbd4ff37f"
+    },
+    "sprites\\frame": {
+      "time": 1765558876217.875,
+      "uuid": "48d97422-2b70-4833-aa9d-abc662e4d850"
+    },
+    "sprites\\symbols": {
+      "time": 1765558876230.8845,
+      "uuid": "2ac1f7cb-c32f-4823-8cc0-1d6592bfa28e"
+    },
+    "scenes\\main.scene": {
+      "time": 1765809434984.0276,
+      "uuid": "805c919f-5b18-43e8-ab06-c23eb2a44a84"
+    },
+    "scripts\\Main.ts": {
+      "time": 1765810755295.5188,
+      "uuid": "27950da1-7bae-4f4d-92f0-16907272fe63"
+    },
+    "scripts\\MockApi.ts": {
+      "time": 1765558876174.8394,
+      "uuid": "c484246b-8c83-46cf-bbcc-887d626442a2"
+    },
+    "sprites\\background\\background.png": {
+      "time": 1765558876193.5747,
+      "uuid": "e97c7efc-5ae7-49a7-95a1-df535f9c4fcb"
+    },
+    "sprites\\background\\logo.png": {
+      "time": 1765558876195.5774,
+      "uuid": "7c320873-1a7b-4dd1-95ed-1914de855a49"
+    },
+    "sprites\\background\\start.png": {
+      "time": 1765558876199.0837,
+      "uuid": "f3f61ef9-1ff6-4ef6-87b5-c9b6afe138b3"
+    },
+    "sprites\\frame\\mainReelsBg_9p.png": {
+      "time": 1765558876205.0837,
+      "uuid": "a3acac49-cace-4316-a3b1-21d827c3965e"
+    },
+    "sprites\\frame\\reelFrame_bottom.png": {
+      "time": 1765558876207.771,
+      "uuid": "4847b65c-9752-4ef4-9efc-1b16f8304fee"
+    },
+    "sprites\\frame\\reelFrame_left.png": {
+      "time": 1765558876210.7742,
+      "uuid": "397da030-f17f-46f4-a095-ac8493d8d817"
+    },
+    "sprites\\frame\\reelFrame_right.png": {
+      "time": 1765558876213.1904,
+      "uuid": "fef86ee9-220a-4d82-a7f3-2d3a71c9bc0d"
+    },
+    "sprites\\frame\\reelFrame_top.png": {
+      "time": 1765558876216.8716,
+      "uuid": "e5361443-1452-4f77-8e03-1903efa2ad82"
+    },
+    "sprites\\symbols\\icon_1.png": {
+      "time": 1765558876222.8743,
+      "uuid": "16c3e5b8-af70-4571-8f89-ee0fc610992a"
+    },
+    "sprites\\symbols\\icon_2.png": {
+      "time": 1765558876225.8767,
+      "uuid": "6e1fe13c-b422-4e8c-9f7a-44206c66f6d0"
+    },
+    "sprites\\symbols\\icon_3.png": {
+      "time": 1765558876228.3792,
+      "uuid": "0859c662-4ba1-49e4-9312-f0de42aefcc0"
+    },
+    "sprites\\symbols\\icon_4.png": {
+      "time": 1765558876230.8845,
+      "uuid": "5dad6c58-9888-45de-928d-3c0fac7f48dc"
+    },
+    "scenes.meta": {
+      "time": 1765558876154.9668
+    },
+    "scripts.meta": {
+      "time": 1765558876157.0088
+    },
+    "sprites.meta": {
+      "time": 1765558876158.041
+    },
+    "sprites\\background.meta": {
+      "time": 1765558876181.8933
+    },
+    "sprites\\frame.meta": {
+      "time": 1765558876183.1797
+    },
+    "sprites\\symbols.meta": {
+      "time": 1765558876184.183
+    },
+    "scripts\\Main.ts.meta": {
+      "time": 1765558876173.8384
+    },
+    "scripts\\MockApi.ts.meta": {
+      "time": 1765558876176.8396
+    },
+    "scenes\\main.scene.meta": {
+      "time": 1765558876165.3303
+    },
+    "sprites\\frame\\mainReelsBg_9p.png.meta": {
+      "time": 1765558876206.136
+    },
+    "sprites\\frame\\reelFrame_bottom.png.meta": {
+      "time": 1765558876208.7751
+    },
+    "sprites\\background\\start.png.meta": {
+      "time": 1765558876200.084
+    },
+    "sprites\\background\\logo.png.meta": {
+      "time": 1765558876198.0845
+    },
+    "sprites\\background\\background.png.meta": {
+      "time": 1765558876194.5757
+    },
+    "sprites\\frame\\reelFrame_top.png.meta": {
+      "time": 1765558876217.875
+    },
+    "sprites\\symbols\\icon_1.png.meta": {
+      "time": 1765558876223.8738
+    },
+    "sprites\\frame\\reelFrame_left.png.meta": {
+      "time": 1765558876212.1912
+    },
+    "sprites\\frame\\reelFrame_right.png.meta": {
+      "time": 1765558876215.1895
+    },
+    "sprites\\symbols\\icon_2.png.meta": {
+      "time": 1765558876227.378
+    },
+    "sprites\\symbols\\icon_3.png.meta": {
+      "time": 1765558876229.8818
+    },
+    "sprites\\symbols\\icon_4.png.meta": {
+      "time": 1765558876230.8845
+    }
+  },
+  "missing": {}
+}

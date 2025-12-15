@@ -1,0 +1,28 @@
+{
+    "version": "1.0.1",
+    "data": {
+        "paths": [
+            "scenes",
+            "scripts",
+            "sprites",
+            "sprites\\background",
+            "sprites\\frame",
+            "sprites\\symbols",
+            "scenes\\main.scene",
+            "scripts\\Main.ts",
+            "scripts\\MockApi.ts",
+            "sprites\\background\\background.png",
+            "sprites\\background\\logo.png",
+            "sprites\\background\\start.png",
+            "sprites\\frame\\mainReelsBg_9p.png",
+            "sprites\\frame\\reelFrame_bottom.png",
+            "sprites\\frame\\reelFrame_left.png",
+            "sprites\\frame\\reelFrame_right.png",
+            "sprites\\frame\\reelFrame_top.png",
+            "sprites\\symbols\\icon_1.png",
+            "sprites\\symbols\\icon_2.png",
+            "sprites\\symbols\\icon_3.png",
+            "sprites\\symbols\\icon_4.png"
+        ]
+    }
+}

@@ -1,0 +1,376 @@
+{
+  "318791c3-2e07-4e6a-9404-d14890a64c64": {
+    "url": "db://assets/scenes",
+    "value": {},
+    "versionCode": 1
+  },
+  "c51104a8-f952-41ff-a322-6ee8e4e85760": {
+    "url": "db://assets/scripts",
+    "value": {},
+    "versionCode": 1
+  },
+  "b9d085e4-12a0-4a99-bafd-fac054c139bd": {
+    "url": "db://assets/sprites",
+    "value": {},
+    "versionCode": 1
+  },
+  "32bf6344-851c-4c97-95fc-7fccbd4ff37f": {
+    "url": "db://assets/sprites/background",
+    "value": {},
+    "versionCode": 1
+  },
+  "48d97422-2b70-4833-aa9d-abc662e4d850": {
+    "url": "db://assets/sprites/frame",
+    "value": {},
+    "versionCode": 1
+  },
+  "2ac1f7cb-c32f-4823-8cc0-1d6592bfa28e": {
+    "url": "db://assets/sprites/symbols",
+    "value": {},
+    "versionCode": 1
+  },
+  "805c919f-5b18-43e8-ab06-c23eb2a44a84": {
+    "url": "db://assets/scenes/main.scene",
+    "value": {
+      "depends": [
+        "805c919f-5b18-43e8-ab06-c23eb2a44a84",
+        "e97c7efc-5ae7-49a7-95a1-df535f9c4fcb@f9941",
+        "7c320873-1a7b-4dd1-95ed-1914de855a49@f9941",
+        "a3acac49-cace-4316-a3b1-21d827c3965e@f9941",
+        "e5361443-1452-4f77-8e03-1903efa2ad82@f9941",
+        "fef86ee9-220a-4d82-a7f3-2d3a71c9bc0d@f9941",
+        "4847b65c-9752-4ef4-9efc-1b16f8304fee@f9941",
+        "397da030-f17f-46f4-a095-ac8493d8d817@f9941",
+        "16c3e5b8-af70-4571-8f89-ee0fc610992a@f9941",
+        "6e1fe13c-b422-4e8c-9f7a-44206c66f6d0@f9941",
+        "0859c662-4ba1-49e4-9312-f0de42aefcc0@f9941",
+        "5dad6c58-9888-45de-928d-3c0fac7f48dc@f9941",
+        "f3f61ef9-1ff6-4ef6-87b5-c9b6afe138b3@f9941"
+      ],
+      "dependScripts": [
+        "27950da1-7bae-4f4d-92f0-16907272fe63"
+      ]
+    },
+    "versionCode": 1
+  },
+  "27950da1-7bae-4f4d-92f0-16907272fe63": {
+    "url": "db://assets/scripts/Main.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c484246b-8c83-46cf-bbcc-887d626442a2": {
+    "url": "db://assets/scripts/MockApi.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "e97c7efc-5ae7-49a7-95a1-df535f9c4fcb": {
+    "url": "db://assets/sprites/background/background.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "7c320873-1a7b-4dd1-95ed-1914de855a49": {
+    "url": "db://assets/sprites/background/logo.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "f3f61ef9-1ff6-4ef6-87b5-c9b6afe138b3": {
+    "url": "db://assets/sprites/background/start.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a3acac49-cace-4316-a3b1-21d827c3965e": {
+    "url": "db://assets/sprites/frame/mainReelsBg_9p.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "4847b65c-9752-4ef4-9efc-1b16f8304fee": {
+    "url": "db://assets/sprites/frame/reelFrame_bottom.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "7c320873-1a7b-4dd1-95ed-1914de855a49@6c48a": {
+    "url": "db://assets/sprites/background/logo.png@6c48a",
+    "value": {
+      "depends": [
+        "7c320873-1a7b-4dd1-95ed-1914de855a49"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a3acac49-cace-4316-a3b1-21d827c3965e@6c48a": {
+    "url": "db://assets/sprites/frame/mainReelsBg_9p.png@6c48a",
+    "value": {
+      "depends": [
+        "a3acac49-cace-4316-a3b1-21d827c3965e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f3f61ef9-1ff6-4ef6-87b5-c9b6afe138b3@6c48a": {
+    "url": "db://assets/sprites/background/start.png@6c48a",
+    "value": {
+      "depends": [
+        "f3f61ef9-1ff6-4ef6-87b5-c9b6afe138b3"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e97c7efc-5ae7-49a7-95a1-df535f9c4fcb@6c48a": {
+    "url": "db://assets/sprites/background/background.png@6c48a",
+    "value": {
+      "depends": [
+        "e97c7efc-5ae7-49a7-95a1-df535f9c4fcb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4847b65c-9752-4ef4-9efc-1b16f8304fee@6c48a": {
+    "url": "db://assets/sprites/frame/reelFrame_bottom.png@6c48a",
+    "value": {
+      "depends": [
+        "4847b65c-9752-4ef4-9efc-1b16f8304fee"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a3acac49-cace-4316-a3b1-21d827c3965e@f9941": {
+    "url": "db://assets/sprites/frame/mainReelsBg_9p.png@f9941",
+    "value": {
+      "depends": [
+        "a3acac49-cace-4316-a3b1-21d827c3965e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "397da030-f17f-46f4-a095-ac8493d8d817": {
+    "url": "db://assets/sprites/frame/reelFrame_left.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "4847b65c-9752-4ef4-9efc-1b16f8304fee@f9941": {
+    "url": "db://assets/sprites/frame/reelFrame_bottom.png@f9941",
+    "value": {
+      "depends": [
+        "4847b65c-9752-4ef4-9efc-1b16f8304fee@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fef86ee9-220a-4d82-a7f3-2d3a71c9bc0d": {
+    "url": "db://assets/sprites/frame/reelFrame_right.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "f3f61ef9-1ff6-4ef6-87b5-c9b6afe138b3@f9941": {
+    "url": "db://assets/sprites/background/start.png@f9941",
+    "value": {
+      "depends": [
+        "f3f61ef9-1ff6-4ef6-87b5-c9b6afe138b3@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e5361443-1452-4f77-8e03-1903efa2ad82": {
+    "url": "db://assets/sprites/frame/reelFrame_top.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "7c320873-1a7b-4dd1-95ed-1914de855a49@f9941": {
+    "url": "db://assets/sprites/background/logo.png@f9941",
+    "value": {
+      "depends": [
+        "7c320873-1a7b-4dd1-95ed-1914de855a49@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "16c3e5b8-af70-4571-8f89-ee0fc610992a": {
+    "url": "db://assets/sprites/symbols/icon_1.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "397da030-f17f-46f4-a095-ac8493d8d817@6c48a": {
+    "url": "db://assets/sprites/frame/reelFrame_left.png@6c48a",
+    "value": {
+      "depends": [
+        "397da030-f17f-46f4-a095-ac8493d8d817"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fef86ee9-220a-4d82-a7f3-2d3a71c9bc0d@6c48a": {
+    "url": "db://assets/sprites/frame/reelFrame_right.png@6c48a",
+    "value": {
+      "depends": [
+        "fef86ee9-220a-4d82-a7f3-2d3a71c9bc0d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e5361443-1452-4f77-8e03-1903efa2ad82@6c48a": {
+    "url": "db://assets/sprites/frame/reelFrame_top.png@6c48a",
+    "value": {
+      "depends": [
+        "e5361443-1452-4f77-8e03-1903efa2ad82"
+      ]
+    },
+    "versionCode": 1
+  },
+  "16c3e5b8-af70-4571-8f89-ee0fc610992a@6c48a": {
+    "url": "db://assets/sprites/symbols/icon_1.png@6c48a",
+    "value": {
+      "depends": [
+        "16c3e5b8-af70-4571-8f89-ee0fc610992a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e97c7efc-5ae7-49a7-95a1-df535f9c4fcb@f9941": {
+    "url": "db://assets/sprites/background/background.png@f9941",
+    "value": {
+      "depends": [
+        "e97c7efc-5ae7-49a7-95a1-df535f9c4fcb@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6e1fe13c-b422-4e8c-9f7a-44206c66f6d0": {
+    "url": "db://assets/sprites/symbols/icon_2.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "e5361443-1452-4f77-8e03-1903efa2ad82@f9941": {
+    "url": "db://assets/sprites/frame/reelFrame_top.png@f9941",
+    "value": {
+      "depends": [
+        "e5361443-1452-4f77-8e03-1903efa2ad82@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0859c662-4ba1-49e4-9312-f0de42aefcc0": {
+    "url": "db://assets/sprites/symbols/icon_3.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "16c3e5b8-af70-4571-8f89-ee0fc610992a@f9941": {
+    "url": "db://assets/sprites/symbols/icon_1.png@f9941",
+    "value": {
+      "depends": [
+        "16c3e5b8-af70-4571-8f89-ee0fc610992a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "397da030-f17f-46f4-a095-ac8493d8d817@f9941": {
+    "url": "db://assets/sprites/frame/reelFrame_left.png@f9941",
+    "value": {
+      "depends": [
+        "397da030-f17f-46f4-a095-ac8493d8d817@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5dad6c58-9888-45de-928d-3c0fac7f48dc": {
+    "url": "db://assets/sprites/symbols/icon_4.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fef86ee9-220a-4d82-a7f3-2d3a71c9bc0d@f9941": {
+    "url": "db://assets/sprites/frame/reelFrame_right.png@f9941",
+    "value": {
+      "depends": [
+        "fef86ee9-220a-4d82-a7f3-2d3a71c9bc0d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6e1fe13c-b422-4e8c-9f7a-44206c66f6d0@6c48a": {
+    "url": "db://assets/sprites/symbols/icon_2.png@6c48a",
+    "value": {
+      "depends": [
+        "6e1fe13c-b422-4e8c-9f7a-44206c66f6d0"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0859c662-4ba1-49e4-9312-f0de42aefcc0@6c48a": {
+    "url": "db://assets/sprites/symbols/icon_3.png@6c48a",
+    "value": {
+      "depends": [
+        "0859c662-4ba1-49e4-9312-f0de42aefcc0"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5dad6c58-9888-45de-928d-3c0fac7f48dc@6c48a": {
+    "url": "db://assets/sprites/symbols/icon_4.png@6c48a",
+    "value": {
+      "depends": [
+        "5dad6c58-9888-45de-928d-3c0fac7f48dc"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6e1fe13c-b422-4e8c-9f7a-44206c66f6d0@f9941": {
+    "url": "db://assets/sprites/symbols/icon_2.png@f9941",
+    "value": {
+      "depends": [
+        "6e1fe13c-b422-4e8c-9f7a-44206c66f6d0@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0859c662-4ba1-49e4-9312-f0de42aefcc0@f9941": {
+    "url": "db://assets/sprites/symbols/icon_3.png@f9941",
+    "value": {
+      "depends": [
+        "0859c662-4ba1-49e4-9312-f0de42aefcc0@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5dad6c58-9888-45de-928d-3c0fac7f48dc@f9941": {
+    "url": "db://assets/sprites/symbols/icon_4.png@f9941",
+    "value": {
+      "depends": [
+        "5dad6c58-9888-45de-928d-3c0fac7f48dc@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f242f1a5-26c4-46a3-b80e-5b852b9bb745": {
+    "url": "db://assets/scripts/MainFunctional.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "aa27aeaf-714f-4a67-9d1b-f7b0d95cfa08": {
+    "url": "db://assets/scripts/MainFunctional copy.ts",
+    "value": {},
+    "versionCode": 1
+  }
+}

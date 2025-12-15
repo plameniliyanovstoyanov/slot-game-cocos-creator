@@ -1,0 +1,22 @@
+12-15-2025 15:42:40 - log: Load engine in C:\ProgramData\cocos\editors\Creator\3.8.7\resources\resources\3d\engine
+12-15-2025 15:42:40 - log: Register native engine in C:\ProgramData\cocos\editors\Creator\3.8.7\resources\resources\3d\engine\native
+12-15-2025 15:42:41 - log: Request namespace: device-list
+12-15-2025 15:42:49 - log: [Scene] meshopt wasm decoder initialized
+12-15-2025 15:42:49 - log: [Scene] [bullet]:bullet wasm lib loaded.
+12-15-2025 15:42:49 - log: [Scene] [box2d]:box2d wasm lib loaded.
+12-15-2025 15:42:49 - log: [Scene] [PHYSICS]: using builtin.
+12-15-2025 15:42:49 - log: [Scene] Cocos Creator v3.8.7
+12-15-2025 15:42:49 - log: [Scene] Using custom pipeline: Builtin
+12-15-2025 15:42:49 - log: [Scene] [PHYSICS2D]: switch from builtin to box2d.
+12-15-2025 16:36:50 - warn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the scriptWarn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
+    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\node_modules\@sentry\core\src\utils-hoist\instrument\console.ts:40:14)
+    at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1637)
+    at findVsCode (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3691)
+    at Object.openCode [as open] (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3427)
+    at Ipc.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\builtin\asset-db\dist\worker\ipc.ccc:1:555)
+12-15-2025 16:44:14 - warn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the scriptWarn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
+    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\node_modules\@sentry\core\src\utils-hoist\instrument\console.ts:40:14)
+    at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1637)
+    at findVsCode (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3691)
+    at Object.openCode [as open] (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3427)
+    at Ipc.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\builtin\asset-db\dist\worker\ipc.ccc:1:555)
